@@ -3,7 +3,7 @@
 /**
  * reverse_array -  function that reverses the content of an array of integers
  * @a: the tab integer
- * @n: the number
+ * @n: the number of elements of the array
  *
  * Return: 1 or 0
  */
